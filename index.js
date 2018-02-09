@@ -6,4 +6,5 @@ function add(a, b) {
 
 function inc(n) {
   var parsed = parseInt(n, 10);
+  return parsed;
 }
