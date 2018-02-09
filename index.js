@@ -5,5 +5,5 @@ function add(a, b) {
 }
 
 function inc(n) {
-  var parrs
+  var parsed = parseInt(n, 10);
 }
